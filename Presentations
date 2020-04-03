@@ -1,4 +1,7 @@
 NGG Data Visualization & Statistics Presentations
+Box: https://upenn.app.box.com/folder/100533181710
+
+
 Prism used for visualization & data analysis
 
 Project - CDK5 overexpression (CDK5-OE) in the Nucleus Accumbens (NAc) 
@@ -13,6 +16,8 @@ Graphs generated:
         - total number of marbles buried out of 16. Male CDK5-OE trending towards more marbles buried (anxious)
       
   - Light/Dark Assay
+      - QQ plots for Male or Female groups
+        - both normal (Gaussian)
       - Bar graphs w/ SEM for individual sexes and 2 combined figures
         - total time spent in the light zone
           - no trends & seemingly no difference between sexes or between control and CDK5-OE groups
