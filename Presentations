@@ -2,11 +2,66 @@ NGG Data Visualization & Statistics Presentations
 Box: https://upenn.app.box.com/folder/100533181710
 
 
-Prism used for visualization & data analysis
-
 Project - CDK5 overexpression (CDK5-OE) in the Nucleus Accumbens (NAc) 
 to recapitulate the anxiety phenotype seen in stressed male 
 mice after 2 weeks of Chronic Unpredictable Mild Stress (CUMS).
+
+Background to CDK5 & stress:
+  Executive Function:
+- Cognitive function deficits (Ohman et al. 2007)
+- Spatial memory impairment (Mizoguchi et al. 2000)
+- Decreased working/short-term memory (Conrad 2010)
+
+  Emotion/Mood:
+- Depression, anxiety, anhedonia, and other neuropsychiatric illnesses (Duman 2006; Bangasser & Valentino 2014)
+- Prevalence in substance-use coping (Brady & Sinha 2005)
+
+  Overall Health:
+- Changes in eating patterns (Yau & Potenza 2013)
+- Suppression/dysregulation of immune system (Padget & Glaser 2003)
+- Development/progression of certain cancers (Saul et al. 2005; Jacobs & Bovasso 2000) 
+  CDK5
+- Brain development
+- Plasticity
+- Cellular metabolism
+- Synaptic vesicle exocytosis (interaction with Munc-18)
+
+
+
+  Preliminary results:
+- Reward-pathway disruptions due to stress
+- All animals display anxiogenic behaviors after 28 days of CUS
+- Regions of interest: NAc, VTA, mPFC, AMA, HYPO, CA1
+NAc
+- Males display increased CDK5 expression throughout CUS and displayed anxiogenic phenotypes earlier than females
+
+
+Hypothesis:
+- Elevating NAc CDK5 levels in males is necessary and sufficient to recapitulate the anxiogenic phenotype established through CUS 
+
+Experimental Design:
+- dCas9 sgRNA design & transformation
+- Bilateral viral injection into mouse NAc 
+- 7day waiting period for viral CDK5 expression
+- Marble Burying Assay:
+  - Rodents are placed for thirty minutes in a standard cage filled with 5 cm depth of wood chip bedding with 16 marbles evenly spaced. After thirty minutes the amount of marbles buried is measured. In this procedure a marble is considered buried if 2/3 of the marble is covered with bedding
+  - Pictures taken and analyzed by at independent experimenters – to get aggregate of buried vs not buried
+- Light Dark Assay
+  - Rodents are placed for 6 mins in a box with two sides (one light and one dark) and a middle door for access to both areas. 
+  - After 1 min of habituation, the time spent in each side is calculated over the duration of 5 mins. 
+  - In addition to time spent, the number of entries into the light side is documented. 
+  - Video recorded and time scored
+  
+
+Expected Results:
+- Increased marble burying & time in dark room within sex for CDK5 animals
+- Increased marble burying & time in dark room between sexes (for CDK5 males)
+
+
+
+
+
+Prism8 used for visualization & data analysis
 
 Graphs generated:
   - Marble Burying
