@@ -14,6 +14,44 @@ Graphs generated:
         - both normal (Gaussian)
       - Bar graphs w/ SEM for individual sexes and a combined figure
         - total number of marbles buried out of 16. Male CDK5-OE trending towards more marbles buried (anxious)
+      - Statistics
+        - 2-way ANOVA shows sex-effect trend and sex x treatment interaction effect
+        ANOVA Table
+F (DFn, DFd)
+P value
+Treatment
+F (1, 18) = 2.024
+P = 0.1719
+Sex
+F (1, 18) = 3.726
+P = 0.0695
+Sex x Treatment
+F (1, 18) = 5.890
+P = 0.0259
+
+        - Bonferroni multiple correction test shows that there is an effect of treatment in males, 
+        and sex effect when both sexes are treated with CDK5 overexpression.
+Bonferroni MCT
+95% CI of diff
+Adjusted P value
+Male
+-4.366 to -0.2342
+P = 0.0280
+Female
+-1.466 to 2.666
+P = 0.9734
+
+Bonferroni MCT
+95% CI of diff
+Adjusted P value
+Control
+-2.252 to -2.052
+P = 0.9999
+CDK5 OE
+0.6484 to 4.952
+P = 0.0087
+
+
       
   - Light/Dark Assay
       - QQ plots for Male or Female groups
@@ -23,4 +61,7 @@ Graphs generated:
           - no trends & seemingly no difference between sexes or between control and CDK5-OE groups
         - number of entries into the light zone
           - no trends & seemingly no difference between sexes or between control and CDK5-OE groups
+        - Two-way ANOVA and multiple comparisons test show no effect of sex or treatment on this task.
+          
+  
    
